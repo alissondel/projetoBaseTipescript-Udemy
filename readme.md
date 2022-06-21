@@ -7,7 +7,6 @@ $ npm i eslint -D <br />
 $ npm i @typescript-eslint/eslint-plugin @typescript-eslint/parser -D <br />
 $ npm i prettier eslint-config-prettier eslint-plugin-prettier -D <br />
 $ npx tsc --init <br />
-$
 
 ## Compilações
 
